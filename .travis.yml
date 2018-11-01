@@ -1,5 +1,6 @@
 language: minimal
 deploy:
+  fqdn: ghp-test.danielop.de
   local-dir: public
   target-branch: gh-pages
   provider: pages
